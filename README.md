@@ -4,7 +4,7 @@ This Android application, SuitMediaTest, is designed with a user-friendly interf
 
 ## Screenshots
 
-![Screenshot 1](https://res.cloudinary.com/dhadtef9h/image/upload/v1701154359/Artboard_1_1_smv0lt.png)
+![Screenshot 1](https://res.cloudinary.com/dhadtef9h/image/upload/v1703864965/Suitmedia_Test_on5tb0.png)
 
 ## Features
 
@@ -30,14 +30,6 @@ This Android application, SuitMediaTest, is designed with a user-friendly interf
 - An empty state is prepared if no data is available.
 - Clicking on a user item updates the selected user's name on the Second Screen without navigating to a new screen.
 
-## Installation
-
-To run SuitMediaTest on your local environment, follow these steps:
-
-1. Clone this repository: `git clone https://github.com/MuhDila/SuitMediaTest.git`
-2. Open the project in Android Studio.
-3. Build and run the app on your device or emulator.
-
 ## Technologies Used
 
 - Kotlin
@@ -45,8 +37,15 @@ To run SuitMediaTest on your local environment, follow these steps:
 - MVVM Architecture
 - Retrofit
 - Paging 3
-- Pull-to-refresh
 - Dialogs
+
+## Installation
+
+To run SuitMediaTest on your local environment, follow these steps:
+
+1. Clone this repository: `git clone https://github.com/MuhDila/SuitMediaTest.git`
+2. Open the project in Android Studio.
+3. Build and run the app on your device or emulator.
 
 ## Credits
 

@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">SuitMediaTest</string>
+    <string name="enter_name">Enter your name</string>
+    <string name="enter_palindrome">Enter palindrome text</string>
+    <string name="check_palindrome">Check Palindrome</string>
+    <string name="next">Next</string>
+    <string name="suitmedia">Suitmedia Test</string>
+    <string name="desc">Kampus Merdeka Batch 6: Mobile Developer Intern 2023</string>
+    <string name="second_screen">Second Screen</string>
+    <string name="welcome">Welcome</string>
+    <string name="your_name">Your name</string>
+    <string name="selected_user">Selected User Name</string>
+    <string name="choose_user">Choose a User</string>
+    <string name="third_screen">Third Screen</string>
+</resources>

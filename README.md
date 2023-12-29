@@ -48,4 +48,6 @@ To run SuitMediaTest on your local environment, follow these steps:
 - Pull-to-refresh
 - Dialogs
 
-Feel free to explore the features and enjoy using SuitMediaTest! 🚀
+## Credits
+
+SuitMediaTest is a creation of Muhammad Dila. Feel free to reach out for any inquiries or suggestions.
